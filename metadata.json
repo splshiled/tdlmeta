@@ -1,0 +1,30 @@
+{
+  "name": "Dollar Token",
+  "symbol": "TDL",
+  "description": "Dollar Token (TDL) - Solana SPL token with 1B fixed supply and advanced access controls.",
+  "image": "https://raw.githubusercontent.com/dyingroomdev/tdl-token/master/assets/logo.png?raw=1",
+  "external_url": "https://github.com/dyingroomdev/tdl-token",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Type",
+      "value": "SPL Token"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dyingroomdev/tdl-token/master/assets/logo.png?raw=1",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
+}
