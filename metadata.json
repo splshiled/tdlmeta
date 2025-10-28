@@ -1,7 +1,7 @@
 {
   "name": "Dollar Token",
   "symbol": "TDL",
-  "description": "Dollar Token (TDL) - Solana SPL token with 1B fixed supply and advanced access controls.",
+  "description": "Dollar Token (TDL) - Solana SPL token with 1B fixed supply.",
   "image": "ttps://raw.githubusercontent.com/splshiled/tdlmeta/main/logo_tdl.png?raw=1",
   "external_url": "https://github.com/splshiled/tdlmeta",
   "attributes": [
